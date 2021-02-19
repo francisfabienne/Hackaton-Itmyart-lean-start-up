@@ -31,11 +31,11 @@ Fonctionnalités :
 
 Technologies
 
-#HTML
-#CSS
-#JAVASCRIPT
+#HTML comme langage de structuration du document 
+#CSS pour la stylisation des données
+#JAVASCRIPTpour dynamysermais
 #JQUERY
-#BOOTSTRAP
+#BOOTSTRAP : ce framework html,css pour fluidifier certains styles
 
 Contribution et versionning
 Ceci est bel et bien la version 1.O.O
