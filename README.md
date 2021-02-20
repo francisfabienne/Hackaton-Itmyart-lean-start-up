@@ -26,7 +26,7 @@ et Francis : Dévéloppeur web
 
 
 Pour l’instant, la plateforme reste un prototype mais dans un future proche, nous serons obligé de consommer les différentes Api des réseaux sociaux, ce qui nous permettra l’automatisation de signalisation des publications de la plateforme aux réseaux sociaux.neant moins un plugin jquery instagram "instagramFedd.js" est mis en place.
-
+  
 #Fonctionnalités :
 
 -inscription
